@@ -1,3 +1,7 @@
+## Chapter 1: The Need for Cybersecurity
+
+![image](https://user-images.githubusercontent.com/51156057/235004034-9598325f-9e5e-4359-886e-a32201e75a76.png)
+
 + This chapter explains what cybersecurity is and why the demand for cybersecurity professionals is growing. 
 + It explains what your online identity and data is, where it is, and why it is of interest to cyber criminals.
 + This chapter also discusses what organizational data is, and why it must be protected. 
