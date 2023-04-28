@@ -14,4 +14,4 @@
 + Finally, this chapter briefly explained cyberwarfare and why nations and 
 + governments need cybersecurity professionals to help protect their citizens and infrastructure.
 
-If you would like to further explore the concepts in this chapter, please check out the Additional Resources and Activities page in Student Resources.
+If you would like to further explore the concepts in this chapter, please check out the [Additional Resources and Activities](https://contenthub.netacad.com/legacy/I2CS/2.1/en/course/files/IntroCybersecurity%20-%20Additional%20Resources%20and%20Activities.pdf) page in Student Resources.
