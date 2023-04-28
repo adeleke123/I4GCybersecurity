@@ -12,4 +12,4 @@
 + It was designed to damage physical equipment that was controlled by computers. 
 + It used modular coding that was programmed to perform a specific task within the `malware`. 
 + It used stolen digital certificates so the attack appeared legitimate to the system. 
-+ Click Play to view a video about Stuxnet.
++ Click Play to view a [video](https://vimeo.com/25118844) about Stuxnet.
