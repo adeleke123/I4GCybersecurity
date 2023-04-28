@@ -19,4 +19,4 @@
 
 + External threats from amateurs or skilled attackers can exploit vulnerabilities in network or 
 + computing devices, or use social engineering to gain access.
-
+![image](https://user-images.githubusercontent.com/51156057/235146046-d32035e5-dd51-471b-afe3-a2fa282ff9fd.png)
