@@ -20,6 +20,10 @@
 + Some gray hat hackers publish the facts about the vulnerability on the Internet so that other attackers can exploit it.
 
 The figure gives details about the terms white hat hacker, black hat hacker, and gray hat hacker.
+![image](https://user-images.githubusercontent.com/51156057/235143930-d91286eb-c26d-4786-b686-234f8f9b13b5.png)
+![image](https://user-images.githubusercontent.com/51156057/235144064-effc3fa0-37b1-4491-9ae0-45a414050998.png)
+![image](https://user-images.githubusercontent.com/51156057/235144160-b700e3ad-3b19-4ac3-8ad7-6b6d1eefc7a0.png)
+
 
 + `Organized Hackers` – These hackers include organizations of cyber criminals, hacktivists, terrorists, and state-sponsored hackers. 
 + Cyber criminals are usually groups of professional criminals focused on control, power, and wealth. 
