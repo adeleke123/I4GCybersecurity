@@ -1,5 +1,8 @@
 ### Chapter 2: Attacks, Concepts and Techniques
 
+![image](https://user-images.githubusercontent.com/51156057/236620342-5e2157cb-7623-46d8-bddc-81ebcfa8e3ff.png)
+
+
 + This chapter covers the ways that cybersecurity professionals analyze what has happened after a cyberattack. 
 + It explains security software and hardware vulnerabilities and the different categories of security vulnerabilities.
 
