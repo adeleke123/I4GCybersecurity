@@ -14,3 +14,4 @@ General hacker profiles and motives have changed quite a bit. The figure display
 
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/5c37ab7e-9713-4082-8fba-7afc1ad79f41)
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/0e3363db-364d-4544-b358-8856bc0eebd5)
