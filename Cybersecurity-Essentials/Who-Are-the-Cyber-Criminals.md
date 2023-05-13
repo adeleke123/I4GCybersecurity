@@ -12,6 +12,7 @@ This group of criminals breaks into computers or networks to gain access for var
 
 
 The figure gives details about the terms white hat hacker, black hat hacker, and gray hat hacker.
+
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/179a054a-a8f7-46ce-a105-168cdeddaaf4)
 
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/d8984753-9342-4642-9164-ba579b64a8ae)
