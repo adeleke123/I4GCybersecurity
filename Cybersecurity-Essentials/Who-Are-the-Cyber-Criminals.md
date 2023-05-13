@@ -8,12 +8,18 @@ In the early years of the cybersecurity world, the typical cyber criminals were 
 
 ### Hackers
 
-This group of criminals breaks into computers or networks to gain access for various reasons. The intent of the break-in determines the classification of these attackers as white, gray, or black hats. White hat attackers break into networks or computer systems to discover weaknesses in order to improve the security of these systems. The owners of the system give permission to perform the break-in, and they receive the results of the test. On the other hand, black hat attackers take advantage of any vulnerability for illegal personal, financial or political gain. Gray hat attackers are somewhere between white and black hat attackers. The gray hat attackers may find a vulnerability and report it to the owners of the system if that action coincides with their agenda. Some gray hat hackers publish the facts about the vulnerability on the Internet, so that other attackers can exploit it.
+This group of criminals breaks into computers or networks to gain access for various reasons. The intent of the break-in determines the classification of these attackers as `white`, `gray,` or `black hats.` `White hat attackers break into networks or computer systems to discover weaknesses in order to improve the security of these systems. The owners of the system give permission to perform the break-in, and they receive the results of the test. On the other hand, black hat attackers take advantage of any vulnerability for illegal personal, financial or political gain. Gray hat attackers are somewhere between white and black hat attackers. The gray hat attackers may find a vulnerability and report it to the owners of the system if that action coincides with their agenda. Some gray hat hackers publish the facts about the vulnerability on the Internet, so that other attackers can exploit it.`
+
 
 The figure gives details about the terms white hat hacker, black hat hacker, and gray hat hacker.
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/179a054a-a8f7-46ce-a105-168cdeddaaf4)
 
-Organized Hackers
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/d8984753-9342-4642-9164-ba579b64a8ae)
 
-These criminals include organizations of cyber criminals, hacktivists, terrorists, and state-sponsored hackers. Cyber criminals are usually groups of professional criminals focused on control, power, and wealth. The criminals are highly sophisticated and organized, and may even provide cybercrime as a service. Hacktivists make political statements to create awareness to issues that are important to them. Hacktivists publically publish embarrassing information about their victims. State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. These attackers are usually highly trained and well-funded. Their attacks focus on specific goals that are beneficial to their government. Some state-sponsored attackers are even members of their nations’ armed forces.
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/246b8eff-380c-440a-87a7-282ff19d6ab2)
 
-Click here to learn more about hacker profiles.
+### Organized Hackers
+
+These criminals include organizations of `cyber criminals, hacktivists, terrorists, and state-sponsored hackers`. `Cyber criminals are usually groups of professional criminals focused on control, power, and wealth. The criminals are highly sophisticated and organized, and may even provide cybercrime as a service. Hacktivists make political statements to create awareness to issues that are important to them. Hacktivists publically publish embarrassing information about their victims. State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. These attackers are usually highly trained and well-funded. Their attacks focus on specific goals that are beneficial to their government. Some state-sponsored attackers are even members of their nations’ armed forces.`
+
+Click [here](https://www.sans.org/white-papers/33864/) to learn more about hacker profiles.
