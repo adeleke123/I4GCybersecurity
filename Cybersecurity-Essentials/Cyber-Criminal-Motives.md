@@ -4,4 +4,13 @@ Cyber criminal profiles and motives have changed over the years. Hacking started
 
 General hacker profiles and motives have changed quite a bit. The figure displays modern hacking terms and a brief description of each.
 
-![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/063b89fa-7944-44d8-a55f-081834f2c6f9)
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/47f466e1-15a1-45fc-823e-ebe49e589229)
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/11fd2896-b7e9-4ee4-8d84-9b88242d6322)
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/8f43f395-e105-4b8f-babf-bca0692ff7e4)
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/b4eccf41-95ba-4608-94f9-79050f18f05c)
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/5c37ab7e-9713-4082-8fba-7afc1ad79f41)
+
