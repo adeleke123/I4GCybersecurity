@@ -6,3 +6,4 @@ The demand for cybersecurity specialists has grown more than the demand for othe
 + A cybersecurity specialist’s career is also highly portable. Jobs exist in almost every geographic location.
 + Cybersecurity specialists provide a necessary service to their organizations, countries, and societies, very much like law enforcement or emergency responders.
 Becoming a cybersecurity specialist is a rewarding career opportunity.
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/2e4b02b0-35e6-485c-95ae-765db6c9d527)
