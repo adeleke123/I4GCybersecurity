@@ -14,3 +14,6 @@ Education records include information about grades, test scores, attendance, cou
 ### Employment and Financial Records
 
 Employment information can include past employment and performance. Employment records can also include salary and insurance information. Financial records may include information about income and expenditures. Tax records could include paycheck stubs, credit card statements, credit rating and banking information.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/096d803c-6285-4eca-aa8b-e32f5a698e9b)
+
