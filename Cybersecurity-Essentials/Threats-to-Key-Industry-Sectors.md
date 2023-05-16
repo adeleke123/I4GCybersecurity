@@ -7,3 +7,6 @@ Over the last decade, cyberattacks like Stuxnet proved that a cyberattack could 
 A cyberattack could bring down or interrupt industry sectors like telecommunication, transportation or electrical power generation and distribution systems. It could also interrupt the financial services sector. One of the problems with environments that incorporate SCADA is the fact that designers did not connect SCADA to the traditional IT environment and the Internet. Therefore, they did not properly consider cybersecurity during the development phase of these systems. Like other industries, organizations using SCADA systems recognize the value of data collection to improve operations and decrease costs. The resulting trend is to connect SCADA systems to traditional IT systems. However, this increases the vulnerability of industries using SCADA systems.
 
 The advanced threat potential that exists today demands a special breed of cyber security experts.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/5c3b4f1e-3326-4f26-900e-3a4a9d2a4812)
+
