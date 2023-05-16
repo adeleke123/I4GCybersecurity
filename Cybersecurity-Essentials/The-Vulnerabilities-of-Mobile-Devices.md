@@ -1,0 +1,3 @@
+## The Vulnerabilities of Mobile Devices
+
+In the past, employees typically used company-issued computers connected to a corporate LAN. Administrators continuously monitor and update these computers to meet security requirements. Today, mobile devices such as iPhones, smartphones, tablets, and thousands of other devices, are becoming powerful substitutes for, or additions to, the traditional PC. More and more people are using these devices to access enterprise information. Bring Your Own Device (BYOD) is a growing trend. The inability to centrally manage and update mobile devices poses a growing threat to organizations that allow employee mobile devices on their networks.
