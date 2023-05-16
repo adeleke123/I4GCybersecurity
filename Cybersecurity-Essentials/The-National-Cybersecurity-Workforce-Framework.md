@@ -18,6 +18,5 @@ The Workforce Framework categorizes cybersecurity work into seven categories.
 
 Within each category, there are several specialty areas. The specialty areas then define common types of cybersecurity work.
 
-The figure displays each of the categories and a brief description of each.
 
 
