@@ -18,3 +18,5 @@ External threats from amateurs or skilled attackers can exploit vulnerabilities 
 ### Traditional Data
 
 Corporate data includes personnel information, intellectual property, and financial data. Personnel information includes application materials, payroll, offer letters, employee agreements, and any information used in making employment decisions. Intellectual property, such as patents, trademarks and new product plans, allows a business to gain economic advantage over its competitors. Consider this intellectual property as a trade secret; losing this information can be disastrous for the future of the company. Financial data, such as income statements, balance sheets, and cash flow statements, gives insight into the health of the company.
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/616a466c-e249-4f90-91d4-095225e97cd7)
+
