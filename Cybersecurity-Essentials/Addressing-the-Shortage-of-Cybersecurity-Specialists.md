@@ -1,0 +1,3 @@
+### Addressing the Shortage of Cybersecurity Specialists
+
+In the U.S., the National Institute of Standards and Technologies (NIST) created a framework for companies and organizations in need of cybersecurity professionals. The framework enables companies to identify the major types of responsibilities, job titles, and workforce skills needed. The National Cybersecurity Workforce Framework categorizes and describes cybersecurity work. It provides a common language that defines cybersecurity work along with a common set of tasks and skills required to become a cybersecurity specialist. The framework helps to define professional requirements in cybersecurity.
