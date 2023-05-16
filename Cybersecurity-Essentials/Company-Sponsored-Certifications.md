@@ -7,3 +7,6 @@ Cisco Certified Network Associate Security (CCNA Security)
 The CCNA Security certification validates that a cybersecurity specialist has the knowledge and skills required to secure Cisco networks.
 
 Click [here](https://learningnetwork.cisco.com/s/ccna) to learn more about the CCNA Security certification.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/43a7318b-1a67-472d-8d81-6cbc32806e6c)
+
