@@ -114,7 +114,7 @@ Refer to curriculum topic: 1.3.1
 A vulnerability is not a threat, but it is a weakness that makes the PC or the software a target for attacks.
 The correct answer is: a weakness that makes a target susceptible to an attack
 ```
-9. What type of attack uses many systems to flood the resources of a target, thus making the target unavailable?
+8. What type of attack uses many systems to flood the resources of a target, thus making the target unavailable?
 Select one:
 
 + DDoS
@@ -130,4 +130,50 @@ Refer to curriculum topic: 1.4.2
 DDoS is is an attack that involves multiple systems. DoS involves only a single attack system.
 The correct answer is: DDoS
 ```
+9. What does the term BYOD represent?
+Select one:
 
++ bring your own disaster
+
++ bring your own device
+
++ buy your own disaster
+
++ bring your own decision
+```
+Feedback
+Refer to curriculum topic: 1.4.1
+The term bring-your-own-device is used to describe mobile devices such as iPhones, smartphones, tablets, and other devices, 
+The correct answer is: bring your own device
+```
+10. What type of an attack can disable a computer by forcing it to use memory or by overworking its CPU?
+Select one:
+
++ algorithm
+
++ APT
+
++ DDoS
+
++ exhaustion
+```
+Feedback
+Refer to curriculum topic: 1.4.2
+Algorithm attacks can force computers to use memory or overwork the CPU.
+The correct answer is: algorithm
+```
+11. Pick three types of records that cyber criminals would be interested in stealing from organizations. (Choose three.)
+
+Select one or more:
++ medical
++ education
++ food
++ rock
++ employment
++ game
++ flight
+```
+Feedback
+Your answer is correct.
+The correct answers are: medical, education, employment
+```
