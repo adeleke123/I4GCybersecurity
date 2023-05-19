@@ -11,4 +11,5 @@
 + `access controls`.
 + Data integrity systems can include one or more of the methods listed above.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/017859a4-ce88-4b58-b02d-1fd816bf3580)
 
