@@ -33,4 +33,8 @@
 + Accurate backups help to maintain data integrity if data becomes corrupted. 
 + An organization needs to verify its backup process to ensure the integrity of the backup before data loss occurs.
 
-Authorization determines who has access to an organization’s resources based on their need to know. For example, file permissions and user access controls ensure that only certain users can modify data. An administrator can set permissions for a file to read-only. As a result, a user accessing that file cannot make any changes.
++ Authorization determines who has access to an organization’s resources 
++ based on their need to know. For example, file permissions and 
++ user access controls ensure that only certain users can modify data. 
++ An administrator can set permissions for a file to read-only. 
++ As a result, a user accessing that file cannot make any changes.
