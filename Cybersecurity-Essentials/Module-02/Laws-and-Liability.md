@@ -7,3 +7,5 @@ Privacy is the appropriate use of data. When organizations collect information p
 All of the laws listed in the figure include a provision for dealing with privacy starting with U.S. laws in Figure 1. Figure 2 lists a sampling of international efforts. Most of these laws are a response to the massive growth in data collection.
 
 The growing number of privacy related statutes create a tremendous burden on organizations that collect and analyze data. Policies are the best way for an organization to comply with the growing number of privacy related laws. Policies enable organizations to enforce specific rules, procedures, and processes when collecting, storing, and sharing data.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/de3dd44d-eb4b-437d-a42a-99828b912745)
