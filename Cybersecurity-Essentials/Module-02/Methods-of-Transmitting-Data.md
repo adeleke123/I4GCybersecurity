@@ -2,9 +2,9 @@
 
 Data transmission involves sending information from one device to another. There are numerous methods to transmit information between devices including:
 
-Sneaker net – uses removable media to physically move data from one computer to another
-Wired networks – uses cables to transmit data
-Wireless networks – uses radio waves to transmit data
++ Sneaker net – uses removable media to physically move data from one computer to another
++ Wired networks – uses cables to transmit data
++ Wireless networks – uses radio waves to transmit data
 Organizations will never be able to eliminate the use of a sneaker net.
 
 Wired networks include copper-wired and fiber optic media. Wired networks can serve a local geographical area (Local Area Network) or they can span great distances (Wide Area Networks).
