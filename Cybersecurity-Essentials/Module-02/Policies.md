@@ -20,3 +20,6 @@ As shown in the figure, a security policy typically includes:
 + Network maintenance policies - Specifies network device operating systems and end user application update procedures.
 + Incident handling policies - Describes how security incidents are handled.
 One of the most common security policy components is an acceptable use policy (AUP). This component defines what users can and cannot do on the various system components. The AUP should be as explicit as possible to avoid misunderstanding. For example, an AUP lists specific websites, newsgroups, or bandwidth intensive applications that users cannot access using company computers or the company network.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/40672f9d-5f84-4cde-83bb-d3adba26e01e)
+
