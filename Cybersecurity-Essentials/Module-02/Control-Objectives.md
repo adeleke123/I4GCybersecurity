@@ -7,3 +7,4 @@ Certification and compliance provide confidence for two organizations that need 
 The following is an example of a control objective:
 
 To control access to networks by using the appropriate authentication mechanisms for users and equipment.
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/8a1b9e4e-e8d0-4a47-819a-97a7f6c4626c)
