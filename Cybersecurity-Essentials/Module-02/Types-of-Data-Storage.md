@@ -29,4 +29,4 @@
 + Cloud storage is a remote storage option 
 + that uses space on a data center provider and 
 + is accessible from any computer with Internet access. 
-+ Google Drive, iCloud, and Dropbox are all examples of cloud storage providers.
++ Google Drive, iCloud, and Dropbox are all examples of cloud storage providers
