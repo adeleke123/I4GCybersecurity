@@ -1,6 +1,6 @@
 ## Viruses, Worms, and Trojan Horses
 
-Cyber criminals target user’s end devices through the installation of malware. Click Play to view an animation of the three most common types of malware.
+Cyber criminals target user’s end devices through the installation of malware. Click Play to view an animation of the three most common types of malware
 
 `Viruses`
 
