@@ -34,3 +34,7 @@ SaaS delivers fully functional applications over the internet on a subscription 
 `Examples of SaaS providers: Salesforce, Microsoft 365, Dropbox, Slack.`
 
 These cloud service models offer different levels of abstraction and cater to different user requirements, providing flexibility, scalability, and cost-efficiency. Organizations can choose the appropriate service model based on their specific needs and the level of control they desire over the underlying infrastructure and software stack.
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/505c45cc-3465-4d60-8d7b-de8fd844f360)
+
