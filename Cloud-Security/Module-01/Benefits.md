@@ -1,9 +1,13 @@
 ## Potential Benefits of cloud Computing
 
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/6fbe99b0-20b7-4786-9f9a-8af0f230c9c1)
+
+
 Cloud computing offers several potential benefits in terms of agility, resilience, and economic advantages. Let's explore each of these areas:
 
 ## Agility:
-Rapid Resource Provisioning: Cloud computing allows organizations to provision computing resources quickly and on-demand. With self-service portals and automation, users can rapidly deploy virtual machines, storage, and networking resources, enabling faster time-to-market for applications and services.
++ `Rapid Resource Provisioning:` Cloud computing allows organizations to provision computing resources quickly and on-demand. With self-service portals and automation, users can rapidly deploy virtual machines, storage, and networking resources, enabling faster time-to-market for applications and services.
 
 + `Scalability:` Cloud platforms offer scalability, allowing resources to be easily scaled up or down based on demand. This agility enables organizations to handle spikes in workload, accommodate growth, and meet changing business needs without the need for extensive upfront infrastructure investments.
 
