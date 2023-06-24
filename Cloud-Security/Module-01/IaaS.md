@@ -14,3 +14,10 @@ Infrastructure as a Service (IaaS) is a cloud computing service model that provi
 
 Through IaaS, users have flexibility and control over the virtualized infrastructure without the burden of managing physical hardware. They can dynamically provision and scale virtual resources based on demand, configure networking and security settings, and deploy their applications and services. The IaaS provider handles the infrastructure management, including hardware maintenance, data center operations, and core connectivity, allowing users to focus on their applications and business objectives.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/33f65218-9f0c-46e0-9197-0b87d8afb2eb)
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/9b1c21fe-dc33-4dc3-b369-eca0e174644e)
+
+
+
