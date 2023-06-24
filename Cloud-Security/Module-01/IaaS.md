@@ -20,4 +20,22 @@ Through IaaS, users have flexibility and control over the virtualized infrastruc
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/9b1c21fe-dc33-4dc3-b369-eca0e174644e)
 
 
+A simplified IaaS architecture typically consists of the following components:
 
++ `Physical Infrastructure:` This includes the physical servers, storage devices, networking equipment, and other hardware components housed in the data center. These resources form the foundation of the IaaS platform.
+
++ `Hypervisor:` The hypervisor is a software layer that enables the creation and management of virtual machines (VMs) on the physical infrastructure. It abstracts the underlying hardware, allowing multiple VMs to run concurrently on a single physical server.
+
++ `Virtual Machines (VMs):` VMs are virtualized instances of servers running on the physical infrastructure. Each VM operates as an independent server with its own operating system, applications, and resources. Users can provision and manage VMs to meet their specific computing requirements.
+
++ `Storage:` IaaS platforms provide virtualized storage resources to store data and files. This can include block storage, object storage, and file storage options. Users can allocate and manage storage volumes as needed for their applications and data.
+
++ `Networking:` Networking components enable connectivity between VMs, storage, and other resources within the IaaS environment. This includes virtual networks, subnets, load balancers, firewalls, and routers. Users can configure networking settings to establish connectivity and define network security rules.
+
++ `APIs and Control Plane:` IaaS platforms expose APIs that allow users to interact with the infrastructure programmatically. These APIs provide a standardized interface for provisioning, configuring, monitoring, and managing resources. The control plane manages the orchestration and coordination of infrastructure operations based on user requests and API calls.
+
++ `Management and Monitoring Tools:` IaaS platforms typically include management and monitoring tools that enable users to track resource utilization, monitor performance, and manage their infrastructure. These tools provide insights into the health, availability, and performance of VMs, storage, and networking components.
+
++ `Security and Access Controls:` IaaS platforms implement security measures to protect the infrastructure and user data. This includes identity and access management (IAM) controls, encryption, network security, and compliance features. Users can define access policies, manage user roles, and enforce security measures to safeguard their resources.
+
+The simplified IaaS architecture provides users with the flexibility to provision and manage virtualized infrastructure resources, such as VMs, storage, and networking, while the IaaS provider handles the physical infrastructure, hypervisor, and underlying management systems. This allows users to focus on their applications and services without the need to manage hardware or perform low-level infrastructure tasks.
