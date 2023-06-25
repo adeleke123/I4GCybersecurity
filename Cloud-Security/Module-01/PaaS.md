@@ -19,9 +19,9 @@
 + `Collaboration and Integration:` PaaS platforms often include features that facilitate collaboration among development teams. They provide tools for version control, team collaboration, and integration with popular development frameworks and tools. This promotes seamless collaboration and ensures smooth integration with existing development workflows.
 
 + `Pay-per-Use Pricing:` PaaS follows a pay-per-use pricing model, where users are charged based on the resources and services they consume. This allows for cost optimization, as users only pay for the resources and services utilized and can easily scale resources as needed.
-```
-Examples of Platform as a Service (PaaS) providers include Heroku, Google App Engine, Microsoft Azure App Service, and AWS Elastic Beanstalk. These platforms offer a comprehensive development environment, runtime environment, and a range of services to simplify application development, deployment, and management, enabling developers to focus on building innovative applications without the burden of infrastructure management.
-```
+  
+Examples of Platform as a Service (PaaS) providers include `Heroku, Google App Engine, Microsoft Azure App Service, and AWS Elastic Beanstalk.` These platforms offer a comprehensive development environment, runtime environment, and a range of services to simplify application development, deployment, and management, enabling developers to focus on building innovative applications without the burden of infrastructure management.
+
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/ddeb4ff2-962c-4810-8891-6e8f36d457a6)
 
 ### Simplified PaaS Model
