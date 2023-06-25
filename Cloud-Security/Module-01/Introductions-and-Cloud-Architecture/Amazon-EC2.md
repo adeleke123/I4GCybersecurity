@@ -1,6 +1,6 @@
 ## Amazon EC2
 
-`Amazon Elastic Compute Cloud (Amazon EC2)` is a core service offered by `Amazon Web Services (AWS)`, which provides scalable virtual servers in the cloud. It allows users to easily provision and manage virtual machines, known as instances, to run their applications and workloads.
+`Amazon Elastic Compute Cloud (Amazon EC2)` is a core service offered by `Amazon Web Services (AWS)`, which provides scalable virtual servers in the cloud. It allows users to easily provision and manage virtual machines, known as instances, to run their applications and workloads
 
 ### Here are the key aspects and features of Amazon EC2:
 
