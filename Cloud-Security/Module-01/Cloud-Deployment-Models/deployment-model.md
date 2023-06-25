@@ -52,3 +52,4 @@ Multi-cloud deployments are suitable for organizations that seek specialized ser
 
 Choosing the appropriate cloud deployment model depends on factors such as security requirements, regulatory compliance, workload characteristics, cost considerations, and business objectives. Organizations often adopt a mix of deployment models to meet their specific needs and leverage the benefits offered by each model.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/20b1606b-c0a9-46fc-9a9b-08b600098edc)
