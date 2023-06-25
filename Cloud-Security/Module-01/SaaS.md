@@ -22,6 +22,12 @@
 
 Examples of Software as a Service (SaaS) providers include Salesforce, Microsoft 365, Google Workspace, Dropbox, and Slack. These platforms offer a wide range of software applications and services, delivered over the internet, providing users with easy access, scalability, and the latest software features without the burden of infrastructure management and maintenance.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/cecb8c34-325d-48d1-9e59-0873e7e3ced3)
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/c707a43d-4ef6-4e74-8267-a660605ec452)
+
+
 
 
 
