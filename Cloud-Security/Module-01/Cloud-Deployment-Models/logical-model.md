@@ -12,3 +12,6 @@ In the context of cloud computing, `the logical model` can be described in terms
 
 These layers in the logical model of cloud computing work together to provide a comprehensive framework for designing, deploying, and managing cloud-based systems. Each layer serves a specific purpose and contributes to the overall functionality and performance of the cloud environment. The infrastructure layer provides the physical resources, the metastructure/management plane layer ensures efficient management and orchestration, the applistructure layer enables the development and execution of applications, and the infostructure layer supports data management and analytics. By understanding and designing these layers effectively, organizations can create robust and scalable cloud solutions to meet their business needs.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/14a466bf-a752-45f9-8182-118c1b7ea9b9)
+
+
