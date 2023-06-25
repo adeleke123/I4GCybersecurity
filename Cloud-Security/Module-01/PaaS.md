@@ -10,7 +10,7 @@
 
 + `Abstraction of Infrastructure:` PaaS abstracts the underlying infrastructure, including servers, storage, and networking, so developers don't have to worry about managing or maintaining the infrastructure. This abstraction simplifies the deployment process and allows developers to focus on writing code and building applications.
 
-Scalability and Elasticity: PaaS platforms typically offer built-in scalability and elasticity features. They automatically scale the application resources up or down based on demand, ensuring that the application can handle varying workloads and maintain optimal performance. This eliminates the need for manual resource provisioning and scaling.
++ `Scalability and Elasticity:` PaaS platforms typically offer built-in scalability and elasticity features. They automatically scale the application resources up or down based on demand, ensuring that the application can handle varying workloads and maintain optimal performance. This eliminates the need for manual resource provisioning and scaling.
 
 + `Database and Backend Services:` PaaS often includes ready-to-use database services and backend services that developers can leverage to store and manage data, handle user authentication, implement push notifications, and perform other common backend operations. These services save developers time and effort in building and managing backend infrastructure.
 
@@ -19,8 +19,17 @@ Scalability and Elasticity: PaaS platforms typically offer built-in scalability 
 + `Collaboration and Integration:` PaaS platforms often include features that facilitate collaboration among development teams. They provide tools for version control, team collaboration, and integration with popular development frameworks and tools. This promotes seamless collaboration and ensures smooth integration with existing development workflows.
 
 + `Pay-per-Use Pricing:` PaaS follows a pay-per-use pricing model, where users are charged based on the resources and services they consume. This allows for cost optimization, as users only pay for the resources and services utilized and can easily scale resources as needed.
+  
+Examples of Platform as a Service (PaaS) providers include `Heroku, Google App Engine, Microsoft Azure App Service, and AWS Elastic Beanstalk.` These platforms offer a comprehensive development environment, runtime environment, and a range of services to simplify application development, deployment, and management, enabling developers to focus on building innovative applications without the burden of infrastructure management.
 
-Examples of Platform as a Service (PaaS) providers include Heroku, Google App Engine, Microsoft Azure App Service, and AWS Elastic Beanstalk. These platforms offer a comprehensive development environment, runtime environment, and a range of services to simplify application development, deployment, and management, enabling developers to focus on building innovative applications without the burden of infrastructure management.
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/ddeb4ff2-962c-4810-8891-6e8f36d457a6)
+
+### Simplified PaaS Model
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/a93d363c-7647-4d78-9ee1-9ca8c8dd3035)
+
+
+
 
 
 
