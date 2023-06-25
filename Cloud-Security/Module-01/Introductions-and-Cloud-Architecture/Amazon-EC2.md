@@ -21,3 +21,14 @@
 + `Management and Monitoring:` Amazon EC2 provides management and monitoring tools to help users efficiently manage their instances. These tools include Amazon CloudWatch for monitoring instance performance, AWS Systems Manager for managing and automating instance configuration, and AWS Management Console for centralized instance management.
 
 Amazon EC2 has become a popular choice for organizations and developers seeking scalable and flexible computing resources in the cloud. Its comprehensive feature set, wide range of instance types, integration with other AWS services, and pay-as-you-go pricing make it a versatile and powerful service for hosting applications, running workloads, and building scalable infrastructures.
+
+
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/0a079658-0516-4da9-ae33-25c0577745d4)
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/41845ce6-30b2-4275-94c2-af4e2dbfb4a9)
+
+
+
