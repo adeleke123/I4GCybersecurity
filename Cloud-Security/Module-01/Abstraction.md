@@ -15,3 +15,6 @@ This abstraction provides benefits such as improved storage resource utilization
 
 In summary, abstraction is a key aspect of hypervisors, SDN, and storage abstraction. It allows for the virtualization and simplification of underlying hardware and infrastructure, providing higher-level views and management capabilities that enhance flexibility, scalability, and resource allocation in cloud computing environments.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/c543b9af-5ab0-45b2-a504-4efdc8c9abfc)
+
+
