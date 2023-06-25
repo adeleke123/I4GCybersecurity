@@ -1,6 +1,6 @@
 ## Hybrid Cloud
 
-`Hybrid cloud` is a cloud computing deployment model that combines elements of both public and private clouds. It allows organizations to leverage the benefits of both environments, enabling seamless integration and data flow between them. In a hybrid cloud, data and applications can move between the private and public clouds, providing flexibility, scalability, and customization options.
+`Hybrid cloud` is a cloud computing deployment model that combines elements of both `public and private clouds`. It allows organizations to leverage the benefits of both environments, enabling seamless integration and data flow between them. In a hybrid cloud, data and applications can move between the private and public clouds, providing flexibility, scalability, and customization options.
 
 ### Here are the key aspects and characteristics of hybrid cloud:
 
