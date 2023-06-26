@@ -1,6 +1,6 @@
 ## Cloud Service Models
 
-Cloud service models refer to different types of services that are offered by cloud computing providers to meet various user needs. The three primary cloud service models are:
+Cloud service models refer to different types of services that are offered by cloud computing providers to meet various user needs. The three primary cloud service models are:-
 
 1. `Infrastructure as a Service (IaaS):`
 IaaS provides virtualized computing resources over the internet. It allows users to access and manage fundamental computing resources such as virtual machines (VMs), storage, networks, and operating systems. With IaaS, users have control over the configuration and management of the infrastructure, including the deployment of applications and software.
