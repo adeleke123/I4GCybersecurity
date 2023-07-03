@@ -27,3 +27,5 @@ Cloud security considerations are essential for ensuring the confidentiality, in
 + `Third-Party Risk Management:` Assess the security practices of third-party applications and services integrated into your cloud environment. Ensure that they meet security standards and don't introduce vulnerabilities.
 
 By addressing these cloud security considerations, organizations can create a more robust and secure cloud environment, protect sensitive data, and minimize the risk of security breaches and cyber-attacks. Regular security assessments, audits, and ongoing monitoring are essential to maintain a secure cloud infrastructure.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/d907dda8-093e-4f1a-adad-45ebe052d5d4)
