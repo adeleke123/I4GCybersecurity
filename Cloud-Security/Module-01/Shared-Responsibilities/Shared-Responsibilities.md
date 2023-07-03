@@ -21,3 +21,6 @@ The exact division of responsibilities can vary depending on the cloud service m
 + `Configuration Management:` The customer is responsible for properly configuring and managing their cloud resources to ensure security best practices are followed.
 + `Compliance and Data Governance:` The customer is responsible for adhering to regulatory requirements and implementing data governance policies.
 It is essential for cloud customers to understand their responsibilities within the Shared Responsibility Model and take appropriate measures to protect their data, applications, and systems hosted in the cloud. By working in partnership with the cloud provider and following best security practices, organizations can ensure a more secure and resilient cloud computing environment.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/e149a932-a4ae-4d2b-8d58-d7ed773b034b)
+
