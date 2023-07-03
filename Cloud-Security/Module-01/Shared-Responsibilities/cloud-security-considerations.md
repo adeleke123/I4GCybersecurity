@@ -29,3 +29,6 @@ Cloud security considerations are essential for ensuring the confidentiality, in
 By addressing these cloud security considerations, organizations can create a more robust and secure cloud environment, protect sensitive data, and minimize the risk of security breaches and cyber-attacks. Regular security assessments, audits, and ongoing monitoring are essential to maintain a secure cloud infrastructure.
 
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/d907dda8-093e-4f1a-adad-45ebe052d5d4)
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/86b46404-2715-4060-9ba0-eea602a5e730)
+
