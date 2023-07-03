@@ -21,3 +21,6 @@ Software as a Service (SaaS):
 
 In general, as you move up the cloud service model stack from IaaS to SaaS, the cloud provider takes on more of the security responsibilities, reducing the burden on customers. However, customers must still be vigilant about securing their data, applications, and user access, regardless of the service model. It's essential for organizations to understand the division of security responsibilities under the Shared Responsibility Model and work collaboratively with the cloud provider to implement effective security measures. Additionally, adopting security best practices and staying informed about the latest security threats and developments is crucial for maintaining a secure cloud environment.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/eeadd06e-43ff-4edb-8967-ef32bab34cf0)
+
+
