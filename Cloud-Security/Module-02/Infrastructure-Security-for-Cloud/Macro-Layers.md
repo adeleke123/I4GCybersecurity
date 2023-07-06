@@ -7,4 +7,9 @@ In cloud computing, macro layers it might refer to the different major layers or
 
 + `Software as a Service (SaaS):` This is the top layer of the cloud computing stack. In the SaaS model, cloud providers deliver fully functional applications over the internet. Users can access these applications through web browsers without the need for installation or maintenance. SaaS applications are often subscription-based and cater to end-users directly.
 
-By understanding these macro layers, cloud users can choose the appropriate service model based on their requirements and level of control they need over the underlying infrastructure and application development process. Each layer offers different benefits and trade-offs, and organizations can leverage the advantages of different layers to meet their specific business needs
+By understanding these macro layers, cloud users can choose the appropriate service model based on their requirements and level of control they need over the underlying infrastructure and application development process. Each layer offers different benefits and trade-offs, and organizations can leverage the advantages of different layers to meet their specific business needs.
+
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/22292f8f-9106-4a1b-aee3-f32639f24273)
+
