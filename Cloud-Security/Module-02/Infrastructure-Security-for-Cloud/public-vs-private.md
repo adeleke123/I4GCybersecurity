@@ -2,7 +2,7 @@
 
 Public cloud in the Infrastructure as a Service (IaaS) model refers to a cloud computing environment that is owned and operated by a third-party cloud service provider (CSP). In a public cloud, the computing resources, including virtual machines (VMs), storage, and networking infrastructure, are shared among multiple customers or organizations. These resources are made available to users over the internet on a pay-as-you-go basis.
 
-Key characteristics of the public cloud in IaaS include:
+### Key characteristics of the public cloud in IaaS include:
 
 + `Shared Infrastructure:` The underlying infrastructure, including servers, storage, and networking, is shared among multiple customers. This shared environment enables cost efficiency and scalability as resources are allocated dynamically based on demand.
 
@@ -31,3 +31,6 @@ Private cloud in the IaaS model refers to a cloud computing environment that is 
 + `Cost Predictability:` While private clouds may require higher upfront investment compared to public clouds, they offer cost predictability as organizations have more control over resource allocation and utilization.
 
 It's important to note that organizations can also opt for hybrid cloud environments, which combine elements of both public and private clouds. This allows organizations to leverage the scalability and flexibility of public clouds while maintaining sensitive data and critical applications within the private cloud infrastructure.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/99f1eb49-fbc6-4bc6-93d2-75a607808e1b)
+
