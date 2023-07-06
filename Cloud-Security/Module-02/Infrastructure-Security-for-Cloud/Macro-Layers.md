@@ -1,5 +1,5 @@
 ## Macro Layer
-In the context of cloud computing, "macro layers" is not a standard or widely used term. However, based on the context, it might refer to the different major layers or levels of cloud computing services, which are commonly known as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). These three layers represent different levels of abstraction in the cloud service models.
+In cloud computing, macro layers it might refer to the different major layers or levels of cloud computing services, which are commonly known as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). These three layers represent different levels of abstraction in the cloud service models.
 
 + `Infrastructure as a Service (IaaS):` This is the lowest level of the cloud computing stack. It provides virtualized computing resources over the internet. In the IaaS model, cloud providers offer virtual machines, storage, and networking resources, allowing users to run and manage applications on a flexible infrastructure. Users have more control over the underlying infrastructure, including operating systems and applications.
 
