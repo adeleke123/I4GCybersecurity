@@ -16,3 +16,4 @@ By implementing these security measures, organizations can enhance the overall s
 
 ![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/7b9eb41c-cb91-4302-93b3-3a705c391954)
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/b9ee2c67-793f-4e42-a4bc-0d13997ad74c)
