@@ -15,3 +15,7 @@ Infrastructure as a Service (IaaS) is a cloud computing model that provides virt
 + `Management Network Plane:` The management network plane in IaaS is a dedicated network infrastructure used for communication and management purposes within the cloud environment. It facilitates communication between different management components, such as the compute controller, storage controller, and management interfaces. The management network plane is isolated from the user-facing networks to ensure security and proper segregation of management traffic.
 
 In summary, IaaS works by providing users with virtualized compute and storage resources from a compute pool and storage pool respectively. The compute controller manages the provisioning and management of VM instances, while the storage/volume controller handles storage resource allocation. The management network, including APIs, enables users and administrators to interact with and control the IaaS resources effectively. The management network plane ensures secure communication between different management components within the cloud infrastructure.
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/dcccd715-dd97-466f-8d0d-d726b94c7a6e)
+
