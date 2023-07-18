@@ -13,3 +13,5 @@ There are several major types of virtual networks commonly used in cloud computi
 + Peer-to-Peer Virtual Networks: Peer-to-peer (P2P) virtual networks leverage decentralized network architectures, where devices connect directly with each other without relying on a central server. P2P virtual networks are often used for distributed applications and file sharing, allowing direct communication and data transfer between connected devices.
 
 It's important to note that the types of virtual networks available can vary based on the cloud provider and networking technologies employed. Different cloud providers may use different terminology or offer variations of virtual network solutions. Understanding the specific features and capabilities provided by the chosen cloud platform is crucial for effectively utilizing and configuring virtual networks.
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/f3a870ac-3659-4dc2-bb40-9a851683b9f2)
