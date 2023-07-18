@@ -21,6 +21,7 @@ Network Segmentation and Isolation: SDN firewalls can facilitate network segment
 SDN firewalls provide advanced security capabilities within an SDN environment, offering centralized policy management, dynamic enforcement, granular access controls, and integration with threat intelligence. By leveraging the programmability and flexibility of SDN, these firewalls enhance network security, mitigate risks, and enable effective protection against a wide range of security threats.
 
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/e1ec29e6-901a-4d90-95bc-8beb89774b86)
 
 
 
