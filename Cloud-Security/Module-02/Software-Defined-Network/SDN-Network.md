@@ -16,6 +16,7 @@ Automated Security Orchestration: SDN's programmability and automation capabilit
 
 It's important to note that while SDN provides these security benefits, implementing SDN alone does not guarantee security. Proper design, configuration, and ongoing monitoring and management are necessary to maximize the security advantages offered by SDN. Additionally, organizations should consider integrating other security technologies, such as firewalls, intrusion detection systems, and encryption mechanisms, to create a comprehensive and layered security approach within the SDN environment.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/32513c0b-bdd4-4967-91e2-38c2f9a1e789)
 
 
 
