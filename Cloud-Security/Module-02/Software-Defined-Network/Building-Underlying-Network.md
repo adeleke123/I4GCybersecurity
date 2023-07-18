@@ -18,4 +18,8 @@ Building the underlying networks for cloud infrastructure involves designing and
 
 + Compliance and Governance: Consider any industry-specific compliance requirements and governance frameworks when building cloud networks. Implement appropriate controls, logging mechanisms, and audit trails to meet regulatory obligations and security standards.
 
-Building the underlying networks for cloud infrastructure requires a combination of networking expertise, understanding of cloud architecture, and alignment with the specific requirements of the organization and its cloud deployment. Collaboration between network engineers, cloud architects, and security specialists is essential to create a robust and efficient network foundation for cloud environments
+Building the underlying networks for cloud infrastructure requires a combination of networking expertise, understanding of cloud architecture, and alignment with the specific requirements of the organization and its cloud deployment. Collaboration between network engineers, cloud architects, and security specialists is essential to create a robust and efficient network foundation for cloud environments.
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/8d24a5db-f29a-49ab-b814-319901eb8fbb)
+
