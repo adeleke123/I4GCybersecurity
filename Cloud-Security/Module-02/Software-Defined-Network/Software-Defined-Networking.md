@@ -18,6 +18,8 @@ With SDN, the control plane is decoupled from the underlying network hardware an
 
 SDN has gained significant attention and adoption in cloud computing environments and data centers due to its ability to simplify network management, improve agility, and support the dynamic nature of modern applications and services.
 
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/7a35b4d9-96c1-4bbb-b542-f3dcdfaa9568)
+
 
 
 
