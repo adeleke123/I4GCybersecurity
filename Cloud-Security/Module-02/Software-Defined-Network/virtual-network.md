@@ -15,3 +15,7 @@ Security and Network Services: Virtual networks support the implementation of se
 Scalability: Virtual networks are designed to be scalable, allowing for the addition or removal of resources without disrupting the network connectivity. As the cloud environment grows, administrators can easily expand the virtual network by adding subnets, adjusting IP address ranges, and incorporating additional network components as needed.
 
 Virtual networks are a fundamental component of cloud networking, enabling the creation of isolated and customizable network environments that meet the specific requirements of applications and services running within the cloud infrastructure.
+
+
+![image](https://github.com/adeleke123/I4GCybersecurity/assets/51156057/8b81a40d-aa24-4c34-82a7-f6ccc60e8911)
+
