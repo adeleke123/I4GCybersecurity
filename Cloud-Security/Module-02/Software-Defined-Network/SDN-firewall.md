@@ -1,4 +1,4 @@
-## SDN Firewall
+## SDN Firewall.
 
 An SDN firewall is a type of firewall that is specifically designed and implemented within a Software-Defined Networking (SDN) environment. It leverages the programmability and centralized control of SDN to provide advanced network security functionalities.
 
