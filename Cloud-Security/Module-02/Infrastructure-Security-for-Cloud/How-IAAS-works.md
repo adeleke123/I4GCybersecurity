@@ -1,6 +1,8 @@
 ## How IAAS works
 
-Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. Let's explore how IaaS works by breaking down its key components:
+Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. 
+
+Let's explore how IaaS works by breaking down its key components:
 
 + `Compute Pool:` The compute pool in IaaS consists of a collection of virtual machines (VMs) or instances. These instances are created and managed by the cloud service provider (CSP) and are made available to users on-demand. Users can choose the desired specifications for their VMs, such as CPU, memory, and operating system. The compute pool allows for scalability and flexibility, as users can easily provision or release VM instances as needed.
 
